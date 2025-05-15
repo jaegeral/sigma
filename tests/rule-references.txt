@@ -3825,3 +3825,16 @@ https://www.elastic.co/guide/en/security/current/startup-logon-script-added-to-g
 https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://linux.die.net/man/1/arecord
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://gtfobins.github.io/gtfobins/mawk/#shell
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
+https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4776
+https://www.sentinelone.com/labs/wip26-espionage-threat-actors-abuse-cloud-infrastructure-in-targeted-telco-attacks/
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
+https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys
+https://research.splunk.com/endpoint/07921114-6db4-4e2e-ae58-3ea8a52ae93f/
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#monitoring-for-failed-unusual-sign-ins
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
+https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
+https://web.archive.org/web/20230331181619/https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
