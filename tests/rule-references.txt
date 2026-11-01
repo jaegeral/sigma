@@ -3825,3 +3825,13 @@ https://www.elastic.co/guide/en/security/current/startup-logon-script-added-to-g
 https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://linux.die.net/man/1/arecord
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://dear-territory-023.notion.site/WebDav-Share-Testing-e4950fa0c00149c3aa430d779b9b1d0f?pvs=4
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
+https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
+https://strontic.github.io/xcyclopedia/library/dialer.exe-0B69655F912619756C704A0BF716B61F.html
+https://asec.ahnlab.com/en/61000/
+https://sensepost.com/blog/2024/dumping-lsa-secrets-a-story-about-task-decorrelation/
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-pan/e44d984c-07d3-414c-8ffc-f8c8ad8512a8
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
+https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
